@@ -54,3 +54,9 @@ h1 {
 .path {
   margin-top: 2.5rem;
 }
+
+.loader-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
